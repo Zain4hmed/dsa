@@ -27,8 +27,6 @@ public class IslandProblemLeetCode {
             }
             System.out.println();
         }
-
-        //blablalbablalblalalllblalalablabla
         return 0;
     }
 
